@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ###### Data Science Student at Purdue University
+[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaYYHo)](https://github.com/JoshuaYYHo/github-readme-stats)
