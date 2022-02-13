@@ -5,6 +5,7 @@ Hello, my name is Joshua Ho and I am from the Bay Area more specifically Silicon
 
 # Languages & Tools ✏️
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ## Stats 📊
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaYYHo&show_icons=true&theme=radical) 
