@@ -1,5 +1,7 @@
 ### Joshua Ho | Data Science Student @ Purdue University 💻
 
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Joshua(111|nd Ho)|https://raymond.li)"/>](https://raymond.li/)
+
 ## Introduction 👋🏼
 Hello, my name is Joshua Ho and I am from the Bay Area more specifically Silicon Valley. Growing up, I have always wanted to learn how to code since I have always wondered how video games and websites worked. Living in the convenient location of Silicon Valley, I had access to numerous resources to proliferate my coding knowledge. Now that I have stepped foot onto Purdue University, my journey continues.
 
